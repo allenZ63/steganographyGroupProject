@@ -1,7 +1,3 @@
-# steganographyGroupProject
-# This project will involve sending and receiving text files
-# that represent packets. There will be both encrypted files with and without a key. 
-# 
 # Project Charter
 # File Compression: Image Steganography
 # 5/15/18
