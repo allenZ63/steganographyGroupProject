@@ -27,9 +27,10 @@ public class Steganography {
             g = c.getGreen();
             b = c.getBlue();
             System.out.println("Element: " + (i + 1) );
-            System.out.println("Red: " + r);
-            System.out.println("Green: " + g);
-            System.out.println("Blue: " + b);
+            System.out.println("Red: " + Integer.toString(r, 2));
+            System.out.println("Green: " + Integer.toString(g, 2));
+            System.out.println("Blue: " + Integer.toString(b, 2));
+            System.out.println("");
         }
     }
 }
