@@ -16,7 +16,7 @@
 
 # Timeline: 5/15 - 6/11
 
-# Budget Estimates: Lots of hours
+# Budget Estimates: 4 in-class weeks
 
 # Risks and Contingency Plans: If we fall behind, it will be difficult to make up the necessary work. There is no back-up solution to this. 
 
